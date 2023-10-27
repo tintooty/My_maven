@@ -13,7 +13,7 @@ public class Division extends Substraction{
 		// TODO Auto-generated method stub
 		
 		Division div = new Division();
-		System.out.println("Numbers are :"+div.number1+" "+div.number2);
+		System.out.println("Numbers for the operations are :"+div.number1+" "+div.number2);
 		div.add();
 		div.substract();
 		div.divide();
